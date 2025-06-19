@@ -1,0 +1,2 @@
+# HaustTestnet
+Auto Faucet Haust
